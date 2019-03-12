@@ -1,4 +1,4 @@
-# The IDA* Search Algorithm
+# The IDA* Search Algorithm - Using it to Solve a 15-Puzzle (NP-Hard Problem)
 
 For this project, I will be implenting an IDA* Search Algorithm to solve a 15-puzzle https://en.wikipedia.org/wiki/15_puzzle
 
